@@ -1,1 +1,1 @@
-# bootcamp.blog
+# bootcamp_blog
