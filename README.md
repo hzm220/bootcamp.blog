@@ -29,3 +29,12 @@ SRR7119572	https://sra-download.ncbi.nlm.nih.gov/traces/sra62/SRR/006952/SRR7119
 SRR7119573	https://sra-download.ncbi.nlm.nih.gov/traces/sra62/SRR/006952/SRR7119573	lacZ_unind_mRNA_r1
 
 
+## Read processing
+
+The reads contain the following adapters:
+
+```
+-a 
+-b 
+-g 
+```
